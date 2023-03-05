@@ -152,7 +152,7 @@ li {
 .icons-hm-menu {
     padding: 10px 65px;
     text-decoration: none;
-    font-size: 24px;
+    font-size: 20px;
     display: block;
     border-top: 1px solid #000000;
     text-align: end;
@@ -355,8 +355,8 @@ li {
 .About-Main-Content-Content-Text-Text-paragraph {
     color: var(--FontColorInBackground);
     text-align: justify;
-    margin-bottom: 15px;
-    font-size: 11px;
+    margin-bottom: 12px;
+    font-size: 08px;
     font-weight: normal;
 }
 
@@ -477,7 +477,6 @@ li {
 
 .tentativa2 {
     position: relative;
-    width: min-content;
     height: 14px;
     display: block;
     margin-left: auto;
